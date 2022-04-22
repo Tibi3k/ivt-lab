@@ -22,8 +22,7 @@ public class GT4500 implements SpaceShip {
 
   /**
   * Tries to fire the torpedo stores of the ship.
-  *
-  * @param firingMode how many torpedo bays to fire
+  *A SonarLint egy IDE kiegészítés, ami a kód írása közben futtatja a háttérben a Sonar statikus analízis eszközeit és ad azonnal figyelmeztetéseket.
   * 	SINGLE: fires only one of the bays.
   * 			- For the first time the primary store is fired.
   * 			- To give some cooling time to the torpedo stores, torpedo stores are fired alternating.
